@@ -1,0 +1,26 @@
+lable{
+    display: block;
+    padding:10px;
+}
+body{
+    text-align: center;
+    background-color: antiquewhite;
+}
+form{
+    background-color: rgb(72, 255, 0);
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 10%;
+}
+.button{
+    padding: 10px;
+}
+input[type=submit]{
+    background-color: rgb(85, 157, 250);
+    
+    cursor:pointer;
+}
+input[type=submit]:hover{
+    background-color:rgb(237, 33, 67);
+    
+}
